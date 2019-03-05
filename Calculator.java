@@ -8,4 +8,13 @@ public class Calculator{
 	{
 		System.out.println("Addition:" +(number1+number2));
 	}
+	
+	public static void division(int number1,int number2)
+	{
+		if(nuber2!==0)
+		System.out.println("Divisor should not be 0";
+		else
+		System.out.println("Division:" +(number1/number2));
+	}
+
 }
