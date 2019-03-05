@@ -2,6 +2,8 @@ public class Calculator{
 	public static void main(String[] args){
 		System.out.println("Hello World");
 		System.out.println("Calculator Java Program");
+		System.out.println("Calculator Java Program hi");
+		System.out.println("Calculator Java Program hi");
 	}
 
 	public static void addition(int number1,int number2)
